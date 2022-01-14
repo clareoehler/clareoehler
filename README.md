@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clareoehler
-- 👀 I’m interested in running, hiking, national parks, and sloths! :)
+- 👀 I’m interested in running, hiking, national parks, data science, and sloths! :)
 - 🌱 I’m currently learning about unsupervised learning in Python.
 - 📫 How to reach me claremo2@illinois.edu.
 
